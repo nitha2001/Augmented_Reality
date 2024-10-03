@@ -14,7 +14,6 @@ In this project, I implemented a simple augmented reality application that utili
 
    ![image](https://github.com/user-attachments/assets/b7658ad8-2fa6-417e-8bbf-996b50d06b55)
 
-   ![Alt text](https://drive.google.com/file/d/1mysj0NCkRuvQVaXLzdIwukcRm9eFshM3/view?usp=sharing)
-
+   ![Alt Text](https://drive.google.com/file/d/1mysj0NCkRuvQVaXLzdIwukcRm9eFshM3/view?usp=sharing)
 
 
