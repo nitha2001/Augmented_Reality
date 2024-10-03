@@ -4,22 +4,14 @@ In this project, I implemented a simple augmented reality application that utili
 
 ## Contents
 
-**1. est Pw.py** %0A
-This function is responsible for finding world coordinates of a, b, c and d given
-tag size
+**1. est Pw.py**
+This function is responsible for finding world coordinates of a, b, c and d given tag size
 **2. solve pnp.py**
-
-This function is responsible for recovering R and t from 2D-3D correspondence
-with coplanar assumption
+This function is responsible for recovering R and t from 2D-3D correspondence with coplanar assumption
 **3. est pixel world.py**
-
 This function is responsible for solving 3D locations of a pixel on the table.
 **4. solve p3p.py**
-
-This file has two functions P3P and Procrustes that you need to write. P3P solves
-the polynomial and calculates the distances of the 3 points from the camera and
-then uses the corresponding coordinates in the camera frame and the world frame.
-You need to call Procrustes inside P3P to return R,t.
+This file has two functions P3P and Procrustes that you need to write. P3P solves the polynomial and calculates the distances of the 3 points from the camera and then uses the corresponding coordinates in the camera frame and the world frame.
 **5. VR res.gif**
 
 ## Results
