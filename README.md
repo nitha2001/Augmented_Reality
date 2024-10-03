@@ -5,9 +5,9 @@ In this project, I implemented a simple augmented reality application that utili
 ## Contents
 
 **1. est Pw.py**\
-This function is responsible for finding world coordinates of a, b, c and d given tag size
+This function is responsible for finding world coordinates of a, b, c and d given tag size.
 **2. solve pnp.py**\
-This function is responsible for recovering R and t from 2D-3D correspondence with coplanar assumption
+This function is responsible for recovering R and t from 2D-3D correspondence with coplanar assumption.
 **3. est pixel world.py**\
 This function is responsible for solving 3D locations of a pixel on the table.
 **4. solve p3p.py**\
