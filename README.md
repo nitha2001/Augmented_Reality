@@ -11,8 +11,8 @@ This function is responsible for recovering R and t from 2D-3D correspondence wi
 **3. est pixel world.py**\
 This function is responsible for solving 3D locations of a pixel on the table.
 **4. solve p3p.py**\
-This file has two functions P3P and Procrustes that you need to write. P3P solves the polynomial and calculates the distances of the 3 points from the camera and then uses the corresponding coordinates in the camera frame and the world frame.
-**5. VR res.gif**\
+This file has two functions P3P and Procrustes that you need to write. P3P solves the polynomial and calculates the distances of the 3 points from the camera and then uses the corresponding coordinates in the camera frame and the world frame.\
+**5. VR res.gif**
 
 ## Results
    ![image](https://github.com/user-attachments/assets/704bf49d-b6b2-496e-b90e-a8e515be75b9)
